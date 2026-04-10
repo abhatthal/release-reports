@@ -86,12 +86,12 @@ Summaries fall back to simple heuristics
 If no output file is specified:
 
 ```
-OWNER-REPO-release-report.md
+REPO-release-report.md
 ```
 
 ### Example:
 ```
-opensha-opensha-release-report.md
+opensha-release-report.md
 ```
 
 ## 🛠️ Development
