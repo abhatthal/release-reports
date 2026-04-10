@@ -250,6 +250,8 @@ def write_markdown_report(
     lines.append("")
     lines.append("Releases are listed from latest to oldest.")
     lines.append("")
+    lines.append("Release changelists are an AI-generated summary. Visit release pages to see the full release notes.")
+    lines.append("")
 
     # releases is already sorted newest -> oldest
     for idx, release in enumerate(releases):
